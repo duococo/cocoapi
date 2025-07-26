@@ -33,7 +33,7 @@ export const NAV_DATA: NavData[] = [
           type: 'tip',
         },
         desc: '垃圾桶里不准放垃圾！',
-        link: 'https://static.codemao.cn/flowchunkflex/BJTCVSA8xe.png?hash=Fkd-a-xbLuXrK3uVmMn0wBH8dQXq'
+        link: 'https://flowus.cn/share/96f5c6cd-577f-46ec-a014-572571bc6770?code=PYQS3X'
       },
             {
         icon: 'https://static.codemao.cn/flowchunkflex/SyIlPHR8ge.svg?hash=Fg2n024igtNRapBHKkpHU1W4sby2',
